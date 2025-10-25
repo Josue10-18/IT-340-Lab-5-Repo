@@ -1,0 +1,19 @@
+--- System Monitoring Report (Fri Oct 24 09:52:01 PM EDT 2025) ---
+Uptime:
+ 21:52:01 up  1:01,  1 user,  load average: 0.43, 0.69, 0.68
+
+Memory Usage (free):
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       2.3Gi       164Mi        59Mi       1.2Gi       1.5Gi
+Swap:          3.6Gi       252Ki       3.6Gi
+
+Disk Usage (df):
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.2M  385M   1% /run
+/dev/sda2        20G  9.2G  9.4G  50% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  152K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/dev-josue/CDROM
+---------------------------------------------------
+
